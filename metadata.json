@@ -1,0 +1,6 @@
+{
+  "name": "Media Auto-Sender",
+  "description": "Automatically captures photos and videos and sends them to rudrakshsinghlion@gmail.com.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
